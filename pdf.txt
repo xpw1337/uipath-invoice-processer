@@ -1,0 +1,45 @@
+Pottery & Co.  INVOICE
+Earthenware for everyone
+
+89 Pacific Ave, San Francisco, CA 45321
+Phone: (123) 456-7890
+Fax: (123) 456-7891
+INVOICE #100
+DATE: 1/1/23
+
+BILL TO:
+Mollie Grau
+Perfect Places Interior Design
+210 Stars Avenue
+Berkeley, CA 78910
+(123) 987-6543
+SHIP TO:
+Mollie Grau
+Perfect Places Interior Design
+210 Stars Avenue
+Berkeley, CA 78910
+(123) 987-6543
+
+COMMENTS OR SPECIAL INSTRUCTIONS:
+Shipment contains fragile goods
+
+SALESPERSON P.O. NUMBER REQUISITIONER SHIPPED VIA F.O.B. POINT TERMS
+
+Suman  143  Nathan Rigby  Express air  Warehouse  Due on receipt
+
+QUANTITY DESCRIPTION UNIT PRICE TOTAL
+
+6  Ballpoint Pens  0.89  5.34
+3  Legal Pads (pack of 2)  3.99  11.97
+4  Binder Clips (pack of 12)  1.50  6.00
+1  Whiteboard Eraser  2.25  2.25
+8  Sticky Memo Pads (pack of 100)  0.75  6.00
+
+SUBTOTAL 1300.00
+SALES TAX  65.00
+SHIPPING & HANDLING  24.99
+TOTAL DUE  1389.99
+
+Make all checks payable to Pottery & Co.
+If you have any questions concerning this invoice, contact: Suman at (123) 456-7890.
+THANK YOU FOR YOUR BUSINESS!
